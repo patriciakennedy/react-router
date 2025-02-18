@@ -1,2 +1,8 @@
-# react-router
- A beginner-friendly React Router project showcasing dynamic navigation, nested routes, and a custom 404 page. Built to solidify my understanding of React routing while ensuring smooth page transitions without full reloads.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
