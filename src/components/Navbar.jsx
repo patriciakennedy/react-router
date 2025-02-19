@@ -1,9 +1,10 @@
 import React from 'react';
+import mhlogo from '../assets/mhlogo.png';
 
 const Navbar = () => {
     return (
         <div>
-            <img src="" alt="" />
+            <img src={mhlogo} alt="" />
             <ul>
                 <li>Home</li>
                 <li>Product</li>
