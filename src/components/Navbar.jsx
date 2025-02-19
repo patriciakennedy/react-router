@@ -7,7 +7,7 @@ const Navbar = () => {
             <img src={mhlogo} alt="" />
             <ul>
                 <li>Home</li>
-                <li>Product</li>
+                <li>Products</li>
                 <li>About</li>
                 <li>Contact</li>
             </ul>
